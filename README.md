@@ -100,5 +100,3 @@ E. **Accessibility (Inclusivity)**
 **References:** [Dabbs, A. D. V., et al. (2009) User-centered design and interactive health technologies for patients. CIN: Computers, Informatics, Nursing, 27(3), 175–183.](https://www.iso.org/standard/77520.html)
 
 [Harte, R., et al. (2017). A Human-Centered Design Methodology to Enhance the Usability, Human Factors, and User Experience of Connected Health Systems. JMIR Human Factors, 4(1), e8.](https://doi.org/10.2196/humanfactors.5443)
-
-[Norman, D. A. (2013). The Design of Everyday Things: Revised and Expanded Edition. Basic Books.](JND.org)
