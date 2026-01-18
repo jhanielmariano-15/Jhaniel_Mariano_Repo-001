@@ -20,7 +20,7 @@
 **Source:** [ACM SIGCHI (Special Interest Group on Computer-Human Interaction)](https://sigchi.org/)
 
 
-## What are the core focus of HCI?
+## II. What are the core focus of HCI?
 *When we talk about the focus of Human-Computer Interaction (HCI), we aren't just talking about making buttons look pretty. We are talking about the "bridge" between human thought and digital action.*
 
 HCI focuses on making technology feel like a natural extension of ourselves rather than a confusing tool we have to struggle to understand.
@@ -56,7 +56,7 @@ HCI focuses on making technology feel like a natural extension of ourselves rath
 [HCI: Objectives and Study Focus](https://www.softplan.com.br/en/tech-writers/ihc/)
 
 
-## II. 5 User-Centered Design (UCD) Principles
+## III. 5 User-Centered Design (UCD) Principles
 **-** User-Centered Design is an iterative process where the user's needs focus at every stage.
 
 A. **Empathy and User Understanding**
@@ -77,7 +77,7 @@ E. **Accessibility (Inclusivity)**
 **Reference**: [ISO 9241-210 Standard](https://www.iso.org/standard/77520.html) and [Usability.gov](https://www.usability.gov/what-and-why/user-centered-design.html)
 
 
-## III. Considerations in Developing User-Centered Applications
+## IV. Considerations in Developing User-Centered Applications
 **-** When moving from design to software development, these technical considerations ensure the app remains user-friendly.
 
 ### 1. Usability and Learnability
