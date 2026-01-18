@@ -1,6 +1,6 @@
 # Human Computer Interaction &amp; User-Centered Design Research
 
-## 3 Major Sources on Human-Computer Interaction (HCI)
+## I. 3 Major Sources on Human-Computer Interaction (HCI)
 
 *If you’re looking into how people and technology work together, these three sources often cited in academic and professional research regarding HCI.*
 
